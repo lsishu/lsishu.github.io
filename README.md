@@ -1,6 +1,5 @@
-# lsishu.github.io
-
 Leah Sishu, LAB 1 | GEOG 328 
+lsishu.github.io
 
 # Zeta Phi Beta Sorority, Incorporated ##
 ![Zeta Phi Beta Sorority, Incorporated shield](https://m.media-amazon.com/images/I/51tIWBME5bL.__AC_SX300_SY300_QL70_ML2_.jpg)
